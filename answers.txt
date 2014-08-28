@@ -1,0 +1,33 @@
+# Fill in your name, student ID, and email address in this file.
+
+# If you are working in a team, remove the # signs from the three lines for
+# partner 2 below and fill them in as well. Please submit the lab to CourseWeb
+# only once (from only one partner). This file will be automatically parsed in
+# order to give both team members credit for the lab.
+
+# If you have any other information you'd like us to know, please add it at
+# the end of the file.
+
+# Partner 1
+Name: Jeffrey Tai
+Student ID: 504147859
+Email: jeffreytai@ucla.edu
+
+# Partner 2
+Name: Brian Chang
+Student ID: 304151550
+Email: briancc23@yahoo.com
+
+# Partner 3
+Name: Tammy Wong
+Student ID: 904141761
+Email: tammyhwong@yahoo.com
+
+# Partner 4
+Name: Gene Shaffer
+Student ID: 604158809
+Email: genenakamura@gmail.com 
+
+
+
+# Add any other information you'd like us to have below this line.
